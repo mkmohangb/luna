@@ -1,0 +1,2 @@
+- Lung Nodule Analysis challenge [LUNA](https://luna16.grand-challenge.org/Home/)
+- [Deep Learning with PyTorch](https://github.com/deep-learning-with-pytorch/dlwpt-code)
